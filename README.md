@@ -11,12 +11,9 @@
 
 ---
 
-<table>
-<tr>
-<td align="center" valign="middle"><a href="https://egorthinks.github.io/git-bonsai/?u=Itsj5j6j7"><img src="output/bonsai.gif" width="256" alt="Mi bonsai" /></a></td>
-<td align="center" valign="middle"><img src="koi/koi.gif" width="256" alt="Mi koi" /></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://egorthinks.github.io/git-bonsai/?u=Itsj5j6j7"><img align="middle" src="output/bonsai.gif" width="44%" alt="Mi bonsai" /></a><img align="middle" src="assets/divider.svg" width="4%" alt="" /><img align="middle" src="koi/koi.gif" width="44%" alt="Mi koi" />
+</p>
 
 ---
 
