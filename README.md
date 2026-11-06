@@ -11,7 +11,12 @@
 
 ---
 
-<img src="koi/koi.gif" width="256" alt="Mi koi" />
+<table>
+<tr>
+<td align="center" valign="middle"><a href="https://egorthinks.github.io/git-bonsai/?u=Itsj5j6j7"><img src="output/bonsai.gif" width="256" alt="Mi bonsai" /></a></td>
+<td align="center" valign="middle"><img src="koi/koi.gif" width="256" alt="Mi koi" /></td>
+</tr>
+</table>
 
 ---
 
